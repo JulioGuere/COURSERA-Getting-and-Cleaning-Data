@@ -13,4 +13,4 @@ y_train <- test/y_train.txt : 7352 rows, 1 columns
 
 The dataframe is processed to label with descriptive variable names
 From the dataframes created in the previous step, we are going to create the second dataframes ordered by the average of each variable for each activity and each theme.
-At the end we create the dataframe "training.txt" that contains the ordered data
+At the end we create the dataframe "training.txt" that contains the ordered data.
